@@ -1,6 +1,25 @@
 [
   {
     "item": {
+      "value": "Q332902",
+      "label": "Nicholas Edwards, Baron Crickhowell"
+    },
+    "replacedBy": {
+      "value": "Q333932",
+      "label": "John Morris, Baron Morris of Aberavon"
+    },
+    "start": {
+      "value": "1975-02-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332902$4AB4D29F-BDB1-4EB3-9F99-48046DE8D1C8"
+  },
+  {
+    "item": {
       "value": "Q333932",
       "label": "John Morris, Baron Morris of Aberavon"
     },
@@ -24,6 +43,29 @@
   },
   {
     "item": {
+      "value": "Q4714181",
+      "label": "Alec Jones"
+    },
+    "replaces": {
+      "value": "Q333932",
+      "label": "John Morris, Baron Morris of Aberavon"
+    },
+    "replacedBy": {
+      "value": "Q338044",
+      "label": "Denzil Davies"
+    },
+    "start": {
+      "value": "1979-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1983-03-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4714181$887E995F-11C6-429F-99E9-17A76E334EC7"
+  },
+  {
+    "item": {
       "value": "Q338044",
       "label": "Denzil Davies"
     },
@@ -44,6 +86,29 @@
       "precision": "11"
     },
     "statement": "Q338044$7654FEFC-207D-4F0D-95FC-2F95B8BB1CAA"
+  },
+  {
+    "item": {
+      "value": "Q809053",
+      "label": "Barry Jones, Baron Jones"
+    },
+    "replaces": {
+      "value": "Q338044",
+      "label": "Denzil Davies"
+    },
+    "replacedBy": {
+      "value": "Q337590",
+      "label": "Alan Williams"
+    },
+    "start": {
+      "value": "1983-10-31T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1987-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q809053$B7EFCF88-F487-4E33-BAFD-4012FA637A23"
   },
   {
     "item": {
@@ -139,6 +204,121 @@
   },
   {
     "item": {
+      "value": "Q58282",
+      "label": "William Hague"
+    },
+    "replaces": {
+      "value": "Q333869",
+      "label": "Ron Davies"
+    },
+    "replacedBy": {
+      "value": "Q332962",
+      "label": "Michael Ancram"
+    },
+    "start": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-06-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q58282$C2D63E56-44DE-4A3E-B7F5-2F5E3FF0A14A"
+  },
+  {
+    "item": {
+      "value": "Q332962",
+      "label": "Michael Ancram"
+    },
+    "replaces": {
+      "value": "Q58282",
+      "label": "William Hague"
+    },
+    "replacedBy": {
+      "value": "Q332374",
+      "label": "Liam Fox"
+    },
+    "start": {
+      "value": "1997-06-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1998-06-01T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332962$523D6048-ED06-4A43-937F-F37F19DFB3BC"
+  },
+  {
+    "item": {
+      "value": "Q332374",
+      "label": "Liam Fox"
+    },
+    "replaces": {
+      "value": "Q332962",
+      "label": "Michael Ancram"
+    },
+    "replacedBy": {
+      "value": "Q259836",
+      "label": "Sir George Young"
+    },
+    "start": {
+      "value": "1998-06-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1999-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332374$3EE088A7-5BED-4BA3-9C0A-01CEDB245E4E"
+  },
+  {
+    "item": {
+      "value": "Q259836",
+      "label": "Sir George Young"
+    },
+    "replaces": {
+      "value": "Q332374",
+      "label": "Liam Fox"
+    },
+    "replacedBy": {
+      "value": "Q532347",
+      "label": "Angela Browning"
+    },
+    "start": {
+      "value": "1999-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2000-09-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q259836$1DAAFCA9-E05D-435F-BA01-BD2E67C4E28E"
+  },
+  {
+    "item": {
+      "value": "Q532347",
+      "label": "Angela Browning"
+    },
+    "replaces": {
+      "value": "Q259836",
+      "label": "Sir George Young"
+    },
+    "replacedBy": {
+      "value": "Q303814",
+      "label": "Nigel Evans"
+    },
+    "start": {
+      "value": "2000-09-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2001-09-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q532347$9BC345AA-C00F-483E-A5D4-EFD935AD970E"
+  },
+  {
+    "item": {
       "value": "Q303814",
       "label": "Nigel Evans"
     },
@@ -205,5 +385,158 @@
       "precision": "11"
     },
     "statement": "Q333852$D552B286-75E6-4494-9999-242CC1E46497"
+  },
+  {
+    "item": {
+      "value": "Q333165",
+      "label": "Peter Hain"
+    },
+    "replaces": {
+      "value": "Q333852",
+      "label": "Cheryl Gillan"
+    },
+    "replacedBy": {
+      "value": "Q390690",
+      "label": "Owen Smith"
+    },
+    "start": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2012-05-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333165$6DBA008D-ABB7-401C-ABE6-820DFB6FE06C"
+  },
+  {
+    "item": {
+      "value": "Q390690",
+      "label": "Owen Smith"
+    },
+    "replaces": {
+      "value": "Q333165",
+      "label": "Peter Hain"
+    },
+    "replacedBy": {
+      "value": "Q392101",
+      "label": "Nia Griffith"
+    },
+    "start": {
+      "value": "2012-05-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q390690$C4EFD587-F4C5-4CEE-9AFF-37BDE72287F4"
+  },
+  {
+    "item": {
+      "value": "Q392101",
+      "label": "Nia Griffith"
+    },
+    "replaces": {
+      "value": "Q390690",
+      "label": "Owen Smith"
+    },
+    "replacedBy": {
+      "value": "Q390611",
+      "label": "Paul Flynn"
+    },
+    "start": {
+      "value": "2015-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q392101$7E1924C6-4E34-4C67-B47A-2FA5BB7B9367"
+  },
+  {
+    "item": {
+      "value": "Q390611",
+      "label": "Paul Flynn"
+    },
+    "replaces": {
+      "value": "Q392101",
+      "label": "Nia Griffith"
+    },
+    "replacedBy": {
+      "value": "Q20128115",
+      "label": "Jo Stevens"
+    },
+    "start": {
+      "value": "2016-07-03T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-10-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q390611$5522E6A8-C5A9-435E-AC0B-3658BD9CDAA7"
+  },
+  {
+    "item": {
+      "value": "Q20128115",
+      "label": "Jo Stevens"
+    },
+    "replaces": {
+      "value": "Q390611",
+      "label": "Paul Flynn"
+    },
+    "replacedBy": {
+      "value": "Q20648332",
+      "label": "Christina Rees"
+    },
+    "start": {
+      "value": "2016-10-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-01-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q20128115$1458E7EB-B0AB-4D80-A8D4-55459EB29295"
+  },
+  {
+    "item": {
+      "value": "Q20648332",
+      "label": "Christina Rees"
+    },
+    "replaces": {
+      "value": "Q20128115",
+      "label": "Jo Stevens"
+    },
+    "replacedBy": {
+      "value": "Q392101",
+      "label": "Nia Griffith"
+    },
+    "start": {
+      "value": "2017-02-09T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q20648332$05E86ACE-EC5D-4238-90D0-4319FCE959A8"
+  },
+  {
+    "item": {
+      "value": "Q392101",
+      "label": "Nia Griffith"
+    },
+    "replaces": {
+      "value": "Q20648332",
+      "label": "Christina Rees"
+    },
+    "start": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q392101$C9810D13-C924-4960-84C4-EAB9ABA50FB0"
   }
 ]
