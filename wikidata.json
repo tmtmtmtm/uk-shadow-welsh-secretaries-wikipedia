@@ -1,0 +1,209 @@
+[
+  {
+    "item": {
+      "value": "Q333932",
+      "label": "John Morris, Baron Morris of Aberavon"
+    },
+    "replaces": {
+      "value": "Q332902",
+      "label": "Nicholas Edwards, Baron Crickhowell"
+    },
+    "replacedBy": {
+      "value": "Q4714181",
+      "label": "Alec Jones"
+    },
+    "start": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-07-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333932$0FF57648-3D6B-4921-8173-D1B2F5536BFB"
+  },
+  {
+    "item": {
+      "value": "Q338044",
+      "label": "Denzil Davies"
+    },
+    "replaces": {
+      "value": "Q4714181",
+      "label": "Alec Jones"
+    },
+    "replacedBy": {
+      "value": "Q809053",
+      "label": "Barry Jones, Baron Jones"
+    },
+    "start": {
+      "value": "1983-03-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1983-10-31T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q338044$7654FEFC-207D-4F0D-95FC-2F95B8BB1CAA"
+  },
+  {
+    "item": {
+      "value": "Q337590",
+      "label": "Alan Williams"
+    },
+    "replaces": {
+      "value": "Q809053",
+      "label": "Barry Jones, Baron Jones"
+    },
+    "replacedBy": {
+      "value": "Q809053",
+      "label": "Barry Jones, Baron Jones"
+    },
+    "start": {
+      "value": "1987-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1989-01-09T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q337590$28F6632D-5FBE-4B49-A5D4-D234344FC6A0"
+  },
+  {
+    "item": {
+      "value": "Q809053",
+      "label": "Barry Jones, Baron Jones"
+    },
+    "replaces": {
+      "value": "Q337590",
+      "label": "Alan Williams"
+    },
+    "replacedBy": {
+      "value": "Q285249",
+      "label": "Ann Clwyd"
+    },
+    "start": {
+      "value": "1989-01-09T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q809053$33B334CD-8E73-46A2-81D3-06D2E3F4BE18"
+  },
+  {
+    "item": {
+      "value": "Q285249",
+      "label": "Ann Clwyd"
+    },
+    "replaces": {
+      "value": "Q809053",
+      "label": "Barry Jones, Baron Jones"
+    },
+    "replacedBy": {
+      "value": "Q333869",
+      "label": "Ron Davies"
+    },
+    "start": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1993-10-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q285249$EDEC5E32-F1B5-4AA5-8C94-B73AC3FC31A8"
+  },
+  {
+    "item": {
+      "value": "Q333869",
+      "label": "Ron Davies"
+    },
+    "replaces": {
+      "value": "Q285249",
+      "label": "Ann Clwyd"
+    },
+    "replacedBy": {
+      "value": "Q58282",
+      "label": "William Hague"
+    },
+    "start": {
+      "value": "1993-10-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333869$E595BA57-3352-4EE1-8EF8-4DF365EE3417"
+  },
+  {
+    "item": {
+      "value": "Q303814",
+      "label": "Nigel Evans"
+    },
+    "replaces": {
+      "value": "Q532347",
+      "label": "Angela Browning"
+    },
+    "replacedBy": {
+      "value": "Q265900",
+      "label": "Bill Wiggin"
+    },
+    "start": {
+      "value": "2001-06-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2003-11-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q303814$ec5d9101-4d08-16cd-c6d9-927937ced141"
+  },
+  {
+    "item": {
+      "value": "Q265900",
+      "label": "Bill Wiggin"
+    },
+    "replaces": {
+      "value": "Q303814",
+      "label": "Nigel Evans"
+    },
+    "replacedBy": {
+      "value": "Q333852",
+      "label": "Cheryl Gillan"
+    },
+    "start": {
+      "value": "2003-11-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q265900$2E6B0CE2-21F3-4139-9080-6CB6B3C55E72"
+  },
+  {
+    "item": {
+      "value": "Q333852",
+      "label": "Cheryl Gillan"
+    },
+    "replaces": {
+      "value": "Q265900",
+      "label": "Bill Wiggin"
+    },
+    "replacedBy": {
+      "value": "Q333165",
+      "label": "Peter Hain"
+    },
+    "start": {
+      "value": "2005-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333852$D552B286-75E6-4494-9999-242CC1E46497"
+  }
+]
